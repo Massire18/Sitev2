@@ -4,6 +4,7 @@ require_once "controllers/backend.controller.php";
 require_once "controllers/frontend.controller.php";
 require_once "config/Securite.class.php";
 
+
 try {
     if(isset($_GET['page']) && !empty($_GET['page'])){
         $page = Securite::secureHTML($_GET['page']);

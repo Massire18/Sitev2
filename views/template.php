@@ -27,7 +27,7 @@
                     <?php include("menu.php") ?>
                 </div>
                 <div class='col-4 col-lg-2 text-right pt-1 pr-4'>
-                    N.A.N.A <br /> Clermont (09)
+                   <a href="login" class="nav-link text-white text-center"> N.A.N.A <br /> Clermont (09)</a>
                 </div>
             </div>
         </header>

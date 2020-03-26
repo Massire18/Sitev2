@@ -17,11 +17,11 @@
     </p>
     <p>
         <img src="<?= URL ?>public/sources/images/Autres/icones/mail.png" width="30px" alt="mail"/>
-        Par mail : <a href="mailto:associationnosamisnosanimaux@gmail.com">associationnosamisnosanimaux@gmail.com</a>
+        Par mail : <a href="mailto:associationnosamisnosanimaux@gmail.com">massire3@yahoo.fr</a>
     </p>
     <p>
         <img src="<?= URL ?>public/sources/images/Autres/icones/tel.png" width="30px" alt="tel"/>
-        Par téléphone : 06 10 59 94 71
+        Par téléphone : 07 51 14 18 75
     </p>
     <p>
         <span class="badge badge-pill badge-danger">Ou</span> par notre <span class="badge badge-pill badge-warning">formulaire</span> de contact :
